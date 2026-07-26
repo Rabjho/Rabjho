@@ -6,13 +6,6 @@ I am a CTF addict with 0-Day Aarhus. Here you can find everything from ctf tools
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rabjho&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rabjho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=false&custom_title=Languages" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
